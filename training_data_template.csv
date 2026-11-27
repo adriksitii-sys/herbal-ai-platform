@@ -1,0 +1,2 @@
+experiment_id,first_ethanol_ratio_L_kg,second_ethanol_ratio_L_kg,first_extraction_time_h,second_extraction_time_h,loading_flow_BV_h,water_wash_flow_BV_h,water_wash_volume_BV,elution_flow_BV_h,elution_volume_BV,active_A_content_pct,active_B_content_pct,active_C_content_pct,active_D_content_pct,active_E_content_pct,total_active_content_pct,dry_extract_mass_kg,ethanol_solution_consumption_L,process_time_h,production_cost_RMB,notes
+baseline_001,8.0,6.0,3.0,2.0,2.0,2.0,2.0,1.5,5.0,,,,,,,,,,,基准参数来自比赛软件截图；请填入软件计算结果
